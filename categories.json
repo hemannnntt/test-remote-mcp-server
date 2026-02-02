@@ -1,0 +1,89 @@
+{
+  "Food & Dining": [
+    "Groceries",
+    "Restaurants",
+    "Street Food",
+    "Cafes & Coffee",
+    "Snacks",
+    "Food Delivery",
+    "Office Meals"
+  ],
+  "Transport": [
+    "Bus",
+    "Train",
+    "Metro",
+    "Taxi",
+    "Auto Rickshaw",
+    "Fuel",
+    "Parking",
+    "Vehicle Maintenance",
+    "Vehicle Insurance"
+  ],
+  "Education": [
+    "School Fees",
+    "College Fees",
+    "Online Courses",
+    "Books",
+    "Stationery",
+    "Coaching / Tuition",
+    "Exam Fees"
+  ],
+  "Housing": [
+    "Rent",
+    "Maintenance",
+    "Electricity",
+    "Water",
+    "Gas",
+    "Internet",
+    "Mobile Recharge"
+  ],
+  "Health & Medical": [
+    "Doctor Consultation",
+    "Medicines",
+    "Hospital Bills",
+    "Health Insurance",
+    "Diagnostics",
+    "Fitness",
+    "Mental Health"
+  ],
+  "Shopping": [
+    "Clothing",
+    "Footwear",
+    "Accessories",
+    "Electronics",
+    "Home Essentials",
+    "Personal Care"
+  ],
+  "Entertainment": [
+    "Movies",
+    "OTT Subscriptions",
+    "Games",
+    "Music",
+    "Events",
+    "Hobbies"
+  ],
+  "Travel": [
+    "Flights",
+    "Trains",
+    "Hotels",
+    "Local Transport",
+    "Sightseeing",
+    "Travel Insurance"
+  ],
+  "Personal Expenses": [
+    "Salon",
+    "Grooming",
+    "Gifts",
+    "Donations",
+    "Subscriptions",
+    "Miscellaneous"
+  ],
+  "Financial": [
+    "Savings",
+    "Investments",
+    "Loan EMI",
+    "Credit Card Payment",
+    "Bank Charges",
+    "Taxes"
+  ]
+}
